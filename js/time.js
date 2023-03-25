@@ -1,0 +1,1 @@
+let relogio = new time()
