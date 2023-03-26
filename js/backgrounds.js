@@ -1,4 +1,4 @@
-document.body.style.backgroundImage = "url('imagens/gif02.gif')"
+document.body.style.backgroundImage = "url('imagens/gif01.gif')"
 document.body.style.backgroundSize = "cover"
 document.body.style.backgroundRepeat = "no-repeat"
 
